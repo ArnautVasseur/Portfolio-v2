@@ -1,0 +1,20 @@
+<template>
+  <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_2_14)">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M52 44L51.9999 47.9999L56 48V56H51.9999L52 80H48V56H44V48L48 47.9999V44H52ZM64 44L63.9999 63.9999L68 64V72L63.9999 71.9999L64 80H60V71.9999L56 72V64L60 63.9999V44H64ZM76 44L75.9999 51.9999L80 52V60L75.9999 59.9999L76 80H72V59.9999L68 60V52L72 51.9999V44H76ZM32 0L64 18L63.9999 39.9999H55.9999V26.0151L36 37.5621V60.5659L39.9999 58.3159L40 60H44L43.9999 65.25L32 72L0 54V18L32 0ZM7.99988 26.2337L8 49.32L27.9999 60.5666V37.7807L7.99988 26.2337ZM32 9.18L12.9836 19.8733L31.8105 30.7431L50.8215 19.767L32 9.18Z" fill="white"/>
+  </g>
+  <defs>
+  <clipPath id="clip0_2_14">
+  <rect width="80" height="80" fill="white"/>
+  </clipPath>
+  </defs>
+  </svg>
+</template>
+
+<script lang="ts" setup>
+
+</script>
+
+<style>
+
+</style>

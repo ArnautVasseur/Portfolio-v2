@@ -1,0 +1,36 @@
+//Colors
+$primary-100: #81015f;
+$primary-200: #71015f;
+$primary-300: #61015f;
+$primary-400: #51015f;
+$primary-500: #41015f;
+
+$bg-100: #f2f2f2;
+$bg-200: #e8e8e8;
+$bg-300: #cfcfcf;
+$bg-400: #a4a4a4;
+$bg-500: #838383;
+
+$dark-bg-100: #06000a;
+$dark-bg-200: #0c0115;
+$dark-bg-300: #10011e;
+$dark-bg-400: rgb(22, 2, 40);
+$dark-bg-500: rgb(27, 3, 49);
+
+
+
+//Typography
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
+
+$montserrat: "Montserrat";
+$cinzel: "Cinzel Decorative";
+$desktop_article_title: 2.25rem;
+$desktop_h1: 4rem;
+$desktop_h2: 2rem;
+$desktop_large: 1.125rem;
+$desktop_regular: 1rem;
+$desktop_small: 0.875rem;
+$desktop_caption: 0.750rem;
+
+$duration: .5s;
